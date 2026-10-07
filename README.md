@@ -1,16 +1,15 @@
-## Hi there 👋
+ [Branko Rabrenovich]
 
-<!--
-**brankorabrenovich-dotcom/brankorabrenovich-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Enterprise Sales Leader | Cybersecurity • Artificial Intelligence (AI)
 
-Here are some ideas to get you started:
+Welcome to my professional GitHub profile. I specialize in bridging the gap between cutting-edge security architectures, AI-driven automation, and enterprise business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 **Personal Website:** [Visit my Squarespace Site](https://www.brankorabrenovich.com)
+* 💼 **Connect on LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/rabrenovichbranko)
+
+---
+
+## 🚀 Sales & Tech Expertise
+* **Enterprise Sales:** Managing complex, high-value B2B sales cycles, navigating stakeholder alignment, and driving revenue growth.
+* **Cybersecurity:** Protecting enterprise infrastructure through modern threat detection, Zero Trust architecture, and data security frameworks.
+* **Artificial Intelligence (AI):** Deploying AI and machine learning solut
