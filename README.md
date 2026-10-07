@@ -12,4 +12,4 @@ Welcome to my professional GitHub profile. I specialize in bridging the gap betw
 ## 🚀 Sales & Tech Expertise
 * **Enterprise Sales:** Managing complex, high-value B2B sales cycles, navigating stakeholder alignment, and driving revenue growth.
 * **Cybersecurity:** Protecting enterprise infrastructure through modern threat detection, Zero Trust architecture, and data security frameworks.
-* **Artificial Intelligence (AI):** Deploying AI and machine learning solut
+* **Artificial Intelligence (AI):** Deploying AI and machine learning solutions to optimize workflows, improve predictive analytics, and automate operations.
