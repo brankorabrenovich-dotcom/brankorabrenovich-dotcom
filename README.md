@@ -6,6 +6,7 @@ Welcome to my professional GitHub profile. I specialize in bridging the gap betw
 
 * 🌐 **Personal Website:** [Visit my Squarespace Site](https://www.brankorabrenovich.com)
 * 💼 **Connect on LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/rabrenovichbranko)
+* 📊 **View Professional Profile:** [My Crunchbase](https://www.crunchbase.com/person/branko-rabrenovich)
 
 ---
 
