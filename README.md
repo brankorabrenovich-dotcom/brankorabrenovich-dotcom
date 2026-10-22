@@ -1,6 +1,6 @@
  [Branko Rabrenovich]
 
-### Enterprise Sales Leader | Cybersecurity • Artificial Intelligence (AI)
+### Enterprise Sales Leader | Cybersecurity • Artificial Intelligence (AI).
 
 Welcome to my professional GitHub profile. I specialize in bridging the gap between cutting-edge security architectures, AI-driven automation, and enterprise business solutions.
 
